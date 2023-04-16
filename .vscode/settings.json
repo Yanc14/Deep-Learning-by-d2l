@@ -1,0 +1,12 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "d:\\MIniconda3\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\yangc\\.conda\\envs\\Radar_Process\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
